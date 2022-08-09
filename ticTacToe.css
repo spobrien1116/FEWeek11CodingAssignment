@@ -1,0 +1,13 @@
+#allSquares {
+    margin: 1rem 1rem 1rem 1rem;
+    border: .5rem .5rem .5rem .5rem;
+}
+
+.square {
+    margin: 2rem 2rem 2rem 2rem;
+    border: 1rem 1rem 1rem 1rem;
+    text-align: center;
+    vertical-align:middle;
+    width: 15rem;
+    height: 15rem;
+}
